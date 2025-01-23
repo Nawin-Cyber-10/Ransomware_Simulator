@@ -32,8 +32,8 @@ A Python-based Ransomware Simulator created for educational and testing purposes
 ## Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/Nawin/ransomware-simulator.git  
-   cd ransomware-simulator  
+   git clone https://github.com/Nawin-Cyber-10/Ransomware-Simulator.git  
+   cd Ransomware-Simulator  
    ```  
 
 2. Install dependencies:  
@@ -51,7 +51,6 @@ A Python-based Ransomware Simulator created for educational and testing purposes
 ## Usage 
 
 
-https://github.com/user-attachments/assets/1b8b312b-82b4-4869-afaf-0aa64295dfdf
 
 
 ---
@@ -67,6 +66,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author  
-Developed by **Nawin**. Feel free to connect or report issues at [GitHub](https://github.com/Nawin-10).  
+Developed by **Nawin**. Feel free to connect or report issues at [GitHub](https://github.com/Nawin-Cyber-10).  
 
 ---
